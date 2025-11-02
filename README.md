@@ -4,3 +4,6 @@
 The objective of this project is to analyze customer data to understand the key factors influencing bike purchases.
 By visualizing demographics such as age, gender, income, marital status, education, occupation, and commute distance,
 the dashboard aims to help businesses identify potential customers, track sales trends, and make data-driven marketing decisions to boost bike sales.
+
+## DATA SET USED
+- <a href="https://github.com/Girianiket/Bike-Sales-Dashboard-Excel/blob/main/Data%20Set.xlsx">Dataset</a>
